@@ -7,8 +7,10 @@ import config from '../../../config';
 import theme from '../../lib/theme';
 
 const Header = styled.header`
-  background-color: ${theme.main};
   color: ${theme.light.lighten(0.3)};
+  background: url(/static/fondo_gotas_intro_full.jpg);
+  background-color: ${theme.accent};
+  background-size: cover;
 `;
 
 export default () =>
