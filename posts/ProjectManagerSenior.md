@@ -4,7 +4,7 @@ tags:
   - posiciones
 date: '2018-01-01 15:26 PDT'
 ---
-## Posición a cubrir
+## Estamos buscando
 
 * Nombre del Rol: Project Manager
 * Sector: Desarrollo de Software
