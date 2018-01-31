@@ -1,19 +1,16 @@
 ---
 title: Project Manager Senior
-slug: project-manager-senior
-author: Dario Miñones
-date: 2018-01-01 15:26 PDT
 tags:
   - posiciones
+date: '2018-01-01 15:26 PDT'
 ---
+## Estamos buscando
 
-## Estamos buscando 
-
--  Nombre del Rol: Project Manager
--  Sector: Desarrollo de Software
--  Nivel: Senior
--  Reporta a: Director General
--  Mail de Contacto: rrhh@cactus.ws
+* Nombre del Rol: Project Manager
+* Sector: Desarrollo de Software
+* Nivel: Senior
+* Reporta a: Director General
+* Mail de Contacto: rrhh@cactus.ws
 
 ## Que rol buscamos?
 
@@ -33,11 +30,11 @@ Somos una empresa certificada ISO 9001, encuadrada dentro de la Ley de Software 
 
 Cactus tiene una misión que es la de contribuir significativamente a los objetivos de negocio de sus clientes, mediante la creación de soluciones de software, que posibilite a las marcas vincularse de manera profunda y efectiva con sus consumidores así como resolver problemáticas internas de negocio.
 
-## Lo de adentro nos importa. 
+## Lo de adentro nos importa.
 
 Es necesario que seas buena persona, que seas super profesional, pero nunca te olvides de tu parte humana; seas responsable y tengas proactividad en la mejora continua.
 
-## Cactus tiene su actitud. 
+## Cactus tiene su actitud.
 
 La creatividad e innovación es el eje principal que aplicamos a todo.
 Nos divertimos y somos profesionales.
@@ -45,8 +42,7 @@ Nos gusta combinar momentos de distensión con la adrenalina de la presión de l
 Somos internacionales, pero morimos por un choripan.
 Hacemos deportes, tenemos hobbies y la pasamos bien. 
 
-
-## Más que un plus. 
+## Más que un plus.
 
 Estudiaste o estás en curso de la carrera de administración de empresas, ingeniería en sistemas / industrial, o experiencia profesional equivalente demostrable?
 Tenés experiencia previa de al menos 5 año en un rol similar?
