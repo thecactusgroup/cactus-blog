@@ -1,6 +1,6 @@
 const posts = require('./src/lib/getPosts');
 
-const spaceReplace = string => string.replace(/\s+/g, '-').toLowerCase();
+const spaceReplace = (string) => (string.replace(/\s+/g, '-').toLowerCase());
 
 const getParams = (page, value) => ({
   page: `/${page}`,
