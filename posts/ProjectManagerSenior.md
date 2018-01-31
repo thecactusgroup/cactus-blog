@@ -1,5 +1,7 @@
 ---
 title: Project Manager Senior
+slug: project-manager-senior
+author: Dario Miñones
 tags:
   - posiciones
 date: '2018-01-01 15:26 PDT'
