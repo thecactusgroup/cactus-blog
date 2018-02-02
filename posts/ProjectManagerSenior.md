@@ -6,7 +6,7 @@ tags:
   - posiciones
 date: '2018-01-01 15:26 PDT'
 ---
-## Que estamos buscando? 
+## Descripción del puesto
 
 * Nombre del Rol: Project Manager
 * Sector: Desarrollo de Software
@@ -14,13 +14,12 @@ date: '2018-01-01 15:26 PDT'
 * Reporta a: Director General
 * Mail de Contacto: rrhh@cactus.ws
 
-## Que rol buscamos?
+## ¿Que rol buscamos?
 
 Project Manager, de un nivel senior.
 Al menos 5 años de experiencia manejando proyectos de desarrollo de software.
 
-Significa que vas a tener que definir tareas, estimar esfuerzos y organizarlas en proyectos;
-armar múltiples equipos y liderarlos; necesitamos de tu creatividad en la resolución de problemas; que puedas tomar decisiones en un ambiente con prioridades cambiantes; que puedas llevar una excelente relación con clientes, superiores, pares y equipo y que tengas capacidad de negociación.
+Significa que vas a tener que definir tareas, estimar esfuerzos y organizarlas en proyectos armar múltiples equipos y liderarlos necesitamos de tu creatividad en la resolución de problemas; que puedas tomar decisiones en un ambiente con prioridades cambiantes que puedas llevar una excelente relación con clientes, superiores, pares y equipo y que tengas capacidad de negociación.
 
 Para esto es importante que seas un buen comunicador, disfrutes de trabajar en equipo, y puedas manejar el trabajo bajo presión. 
 
@@ -34,7 +33,7 @@ Cactus tiene una misión que es la de contribuir significativamente a los objeti
 
 ## Lo de adentro nos importa.
 
-Es necesario que seas buena persona, que seas super profesional, pero nunca te olvides de tu parte humana; seas responsable y tengas proactividad en la mejora continua.
+Es necesario que seas buena persona, que seas super profesional, pero nunca te olvides de tu parte humana seas responsable y tengas proactividad en la mejora continua.
 
 ## Cactus tiene su actitud.
 
@@ -50,3 +49,7 @@ Estudiaste o estás en curso de la carrera de administración de empresas, ingen
 Tenés experiencia previa de al menos 5 año en un rol similar?
 Manejas Trello, Slack y Ganttic?
 Tu nivel de inglés es avanzado (oral y escrito)?
+
+## Queremos saber más de vos
+
+Si pensás que sos la persona indicada envianos un email rrhh@cactus.ws
