@@ -7,7 +7,7 @@ tags:
   - posiciones
 ---
 
-## Estamos buscando 
+## Perfil del puesto
 
 -  Nombre del Rol: Project Manager
 -  Sector: Desarrollo de Software
@@ -52,3 +52,7 @@ Estudiaste o estás en curso de la carrera de administración de empresas, ingen
 Tenés experiencia previa de al menos 5 año en un rol similar?
 Manejas Trello, Slack y Ganttic?
 Tu nivel de inglés es avanzado (oral y escrito)?
+
+## Ponete en contacto
+
+Pensas que podes ser un buen match? envianos un mail a rrhh@cactus.ws y nos contactamos con vos.
